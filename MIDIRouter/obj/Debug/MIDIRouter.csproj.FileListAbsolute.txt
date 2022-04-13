@@ -1,0 +1,11 @@
+C:\Users\clive\source\repos\MIDIRouter\MIDIRouter\bin\Debug\MIDIRouter.exe.config
+C:\Users\clive\source\repos\MIDIRouter\MIDIRouter\bin\Debug\MIDIRouter.exe
+C:\Users\clive\source\repos\MIDIRouter\MIDIRouter\bin\Debug\MIDIRouter.pdb
+C:\Users\clive\source\repos\MIDIRouter\MIDIRouter\obj\Debug\MIDIRouter.csproj.AssemblyReference.cache
+C:\Users\clive\source\repos\MIDIRouter\MIDIRouter\obj\Debug\MIDIRouter.csproj.SuggestedBindingRedirects.cache
+C:\Users\clive\source\repos\MIDIRouter\MIDIRouter\obj\Debug\MIDIRouter.Form1.resources
+C:\Users\clive\source\repos\MIDIRouter\MIDIRouter\obj\Debug\MIDIRouter.Properties.Resources.resources
+C:\Users\clive\source\repos\MIDIRouter\MIDIRouter\obj\Debug\MIDIRouter.csproj.GenerateResource.cache
+C:\Users\clive\source\repos\MIDIRouter\MIDIRouter\obj\Debug\MIDIRouter.csproj.CoreCompileInputs.cache
+C:\Users\clive\source\repos\MIDIRouter\MIDIRouter\obj\Debug\MIDIRouter.exe
+C:\Users\clive\source\repos\MIDIRouter\MIDIRouter\obj\Debug\MIDIRouter.pdb
